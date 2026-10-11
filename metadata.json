@@ -1,0 +1,8 @@
+{
+  "name": "StoryCraft AI",
+  "description": "A Generative AI-Based Personalized Story-to-Book Creation Platform. Convert short story ideas into expanded narratives with characters, multi-chapter books, custom rewrites, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
